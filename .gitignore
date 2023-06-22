@@ -1,0 +1,7 @@
+/node_modules
+/.vscode
+/.nyc_*
+/coverage
+.env
+certs/*
+.idea/*
